@@ -8,7 +8,6 @@ Cart page
 Payment page
 Product details page
 All Products page
-[](url
 ![Screenshot (51)](https://user-images.githubusercontent.com/48983461/152019769-3398a45c-a19a-4801-ac15-edadebe24cc0.png)
 ![Screenshot (52)](https://user-images.githubusercontent.com/48983461/152019738-4d0ccf1e-9d26-4507-bce0-22f7e0261890.png)
 ![Screenshot (53)](https://user-images.githubusercontent.com/48983461/152019745-48ae98ff-bb15-4197-b78f-3c5d647d2f09.png)
@@ -18,4 +17,3 @@ All Products page
 ![Screenshot (57)](https://user-images.githubusercontent.com/48983461/152019759-53b78564-7ceb-4de1-8226-cdf47ce6e9ea.png)
 ![Screenshot (58)](https://user-images.githubusercontent.com/48983461/152019762-5bda8c53-c183-4ab8-9bbe-95415c1f5282.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/48983461/152019765-ad2e8467-0aaf-41b1-b427-f930571963d7.png)
-)
